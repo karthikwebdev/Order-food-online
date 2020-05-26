@@ -2,7 +2,7 @@
 full stack application to order food online by students in canteen
 
 ## npm install
---to install dependencies
+- to install dependencies
 
 ## npm start
---to start development server
+- to start development server
